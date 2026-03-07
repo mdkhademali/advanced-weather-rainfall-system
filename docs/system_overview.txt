@@ -1,0 +1,18 @@
+
+Advanced Weather Prediction System Documentation
+
+Modules:
+
+1. Data ingestion
+2. Feature engineering
+3. Machine learning rainfall prediction
+4. Deep learning rainfall forecasting
+5. Visualization
+6. MATLAB statistical climate analysis
+
+Future extensions:
+
+- Satellite rainfall datasets (GPM, TRMM)
+- Climate trend analysis
+- Flood prediction
+- GIS integration
