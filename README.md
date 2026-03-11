@@ -13,16 +13,6 @@ A research‑scale weather analytics project using Python and MATLAB.
 - MATLAB statistical rainfall modeling
 - Modular scientific project structure
 
-## Running
-
-Install requirements:
-
-pip install pandas numpy matplotlib scikit-learn
-
-Run pipeline:
-
-python src/main_pipeline.py
-
 ## Project Highlights
 
 - Time series rainfall modelling
